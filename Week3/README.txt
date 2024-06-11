@@ -1,0 +1,1 @@
+#unfortunately this project had hundreds of images in it's folder and i don't want to upload all of it. Here is the code But know that it is image processing hundreds of files and turning it into an mp4 file
